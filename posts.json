@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "firstname": "fyk",
+      "lastname": "cg",
+      "email": "lizavetka.b@gmail.com",
+      "homeNo": "+999999999999",
+      "workNo": "",
+      "birthdate": "2023-02-03",
+      "company": "Holywood",
+      "jobTitle": "actor",
+      "notes": "",
+      "id": 2
+    },
+    {
+      "firstname": "Moo",
+      "lastname": "Mee",
+      "email": "lex@gmail.com",
+      "homeNo": "+998877665544",
+      "workNo": "",
+      "birthdate": "2004-02-04",
+      "company": "May",
+      "jobTitle": "Chief",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "firstname": "lij",
+      "lastname": "mm",
+      "email": "liza@gmail.com",
+      "homeNo": "+999999999999",
+      "workNo": "",
+      "birthdate": "2018-01-31",
+      "company": "Key",
+      "jobTitle": "Lock",
+      "notes": "",
+      "id": 4
+    },
+    {
+      "firstname": "dc",
+      "lastname": "cg",
+      "email": "li@gmail.com",
+      "homeNo": "+999999999555",
+      "workNo": "",
+      "birthdate": "2016-02-03",
+      "company": "Dee",
+      "jobTitle": "Designer",
+      "notes": "",
+      "id": 5
+    },
+    {
+      "firstname": "Qoo",
+      "lastname": "Daaa",
+      "email": "me@mail.com",
+      "homeNo": "+999999999999",
+      "workNo": "",
+      "addContact1": "+999123456789",
+      "birthdate": "2004-12-19",
+      "company": "May",
+      "jobTitle": "Day",
+      "notes": "",
+      "id": 6
+    },
+    {
+      "firstname": "Aaa",
+      "lastname": "",
+      "email": "liza@gmil.com",
+      "homeNo": "+999999999999",
+      "workNo": "",
+      "birthdate": "",
+      "company": "",
+      "jobTitle": "",
+      "notes": "",
+      "id": 7
+    },
+    {
+      "firstname": "Bbb",
+      "lastname": "",
+      "email": "liza@ail.com",
+      "homeNo": "+998877665544",
+      "workNo": "",
+      "birthdate": "2004-12-31",
+      "company": "NotACompany",
+      "jobTitle": "",
+      "notes": "",
+      "id": 8
+    },
+    {
+      "firstname": "mm",
+      "lastname": "Woo",
+      "email": "moo@mail.com",
+      "homeNo": "+998877665544",
+      "workNo": "",
+      "birthdate": "2004-12-01",
+      "company": "Clean",
+      "jobTitle": "It",
+      "notes": "",
+      "id": 9
+    },
+    {
+      "firstname": "My",
+      "lastname": "Name",
+      "email": "name@gmail.com",
+      "homeNo": "+999999999988",
+      "workNo": "",
+      "birthdate": "2005-01-02",
+      "company": "My",
+      "jobTitle": "Company",
+      "notes": "",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
